@@ -1,5 +1,5 @@
 # SpringBoot-App-forBeginner
-This post is mostly followed the instruction from spring boot course, but a little changes here and there.
+This project is mostly followed the instruction from spring boot course, but a little changes here and there.
 1. This application using spring boot and JSP
 2. database as h2 (in memory db)
  In memory db will be cleared once application restarts so added some data in the data.sql to add some rows to db.
